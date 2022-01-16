@@ -1,3 +1,3 @@
-# Svelte + Tailwind Componets for easy development
+# Svelte + Tailwind Componets for faster development
 
 Spend more time on functonality

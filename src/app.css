@@ -2,3 +2,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  --jet-black: #2d2d2d;
+}
+
+.btnColor {
+  background-color: var(--jet-black);
+}

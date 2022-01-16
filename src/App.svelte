@@ -1,11 +1,10 @@
 <script lang="ts">
- let message = "hi"
+  import Email_button from "./form-components/Email_button.svelte";
 </script>
 
-<main>
- <h1>hello.</h1>
+<main class="m-8">
+  <Email_button />
 </main>
 
 <style>
-  
 </style>
